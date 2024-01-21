@@ -1,1 +1,1 @@
-json custom serializer and deserializer in java
+Custom JSON serializer/deserializer and parser in Java
